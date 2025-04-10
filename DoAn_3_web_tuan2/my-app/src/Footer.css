@@ -1,0 +1,17 @@
+.Footer_top{
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(233, 231, 231);
+}
+
+.Footer_mid{
+    height: 80vh;
+}
+
+.Footer_bot{
+    height: 10vh;
+    border-top: 0.5px solid black;
+}
+.Footer{
+    align-items: center;
+}

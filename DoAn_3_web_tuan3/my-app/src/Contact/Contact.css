@@ -1,0 +1,30 @@
+.contact-page {
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .branch-title {
+    font-weight: bold;
+    color: #222;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  hr {
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  button {
+    font-size: 16px;
+  }
+  

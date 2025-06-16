@@ -1,0 +1,57 @@
+.custom-navbar {
+    background-color: #f2f2f2; /* Nền màu đen */
+    padding: 15px 0;
+  }
+  
+  .brand-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-img {
+    height: 50px; /* Điều chỉnh kích thước logo */
+  }
+  
+  .nav-links .nav-link {
+    color: #100f0f !important;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    transition: color 0.3s;
+  }
+  
+  .nav-links .nav-link:hover {
+    color: #ed6f14 !important; /* Màu vàng Dirty Coins */
+  }
+  
+  .auth-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .auth-btn {
+    background-color: #f07007;
+    color: #000 !important;
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  
+  .auth-btn:hover {
+    background-color: #da7a47;
+  }
+
+  .custom-navbar {
+    transition: all 0.3s ease-in-out;
+    background: white;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .custom-navbar.scrolled {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  
